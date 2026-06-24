@@ -1,3 +1,5 @@
-All exercises were done during my undergraduate studies on the classes Ordinary Differential Equations and Measure Theory
+All exercises were done during my undergraduate studies.
 
-Explanations in Greek
+On the courses "Ordinary Differential Equations" and "Measure Theory".
+
+Explanations in Greek.
